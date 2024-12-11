@@ -1,4 +1,4 @@
-- 👋 # Welcome to Rasith Abeywickrama coding! 🎨
+👋 # Welcome to Rasith Abeywickrama coding! 🎨
 
 
 Happy coding! 🚀
